@@ -16,7 +16,7 @@ def get_current_weather(city="Apapa"):
 
 
 if __name__ == "__main__":
-    print('\**** Get Current Weather Conditions ****\n')
+    print('\n **** Get Current Weather Conditions ****\n')
 
     city = input("\nPlease enter a city name:\n").strip()
 
